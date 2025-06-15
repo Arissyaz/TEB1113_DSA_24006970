@@ -1,3 +1,10 @@
+
+/*
+ Name: Arissya Zahiera Binti Zulazman
+ ID : 24006970
+ Group : Lab 1
+ Question: Find a specific pair in Matrix
+*/
 #include <iostream>
 using namespace std;
 

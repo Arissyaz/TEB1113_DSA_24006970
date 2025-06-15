@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e183d6ba-a591-48fe-a8ec-66278b0077ae}</ProjectGuid>
-    <RootNamespace>My24006970ADSL3</RootNamespace>
+    <ProjectGuid>{bb4a80f5-50c6-4ac8-a532-bcd48188e843}</ProjectGuid>
+    <RootNamespace>My24006970ADSL3DoublyLinkedList</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="24006970_ADS_L3.cpp" />
+    <ClCompile Include="24006970_ADS_L3_DoublyLinkedList.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
